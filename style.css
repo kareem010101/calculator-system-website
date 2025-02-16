@@ -48,6 +48,10 @@ form .diplay{
     width:70%;
     
 }
+form #display{
+    width: 300px;
+   
+}
 form input.equal{
     width:145px;
     border: solid rgb(17, 217, 231);
